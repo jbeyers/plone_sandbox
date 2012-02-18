@@ -1,0 +1,15 @@
+*.pyc
+.~lock.*
+tags
+.installed.cfg
+bin/
+develop-eggs/
+downloads/
+fake-eggs/
+include/
+lib/
+parts/
+var/
+src/
+.mr.developer.cfg
+distribute-0.6.10.tar.gz
